@@ -1,2 +1,7 @@
-# indent-summary-app-v2
-Indent Summary Generator
+# Indent Summary Generator
+Upload SAP Excel file and generate:
+- TPT Indents
+- DoT Indents
+- Dealer Indents
+- MG Qty
+- HSD Qty
